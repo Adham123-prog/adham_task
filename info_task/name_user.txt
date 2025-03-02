@@ -1,0 +1,6 @@
+    name      password
+
+    "user1":  "abcDe",
+    "admin":  "passX",
+    "test":  "hello my name is adham ahmed reda and my id 2205087
+    i used three email user and thier password i can make that take from me the email and password and i can try to crack it by  file password.txt
